@@ -1,0 +1,2 @@
+class CartaoPlatinum:
+    pass
